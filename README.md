@@ -22,16 +22,16 @@
 ### 🌐 Connect with me  
 <p align="left">
   <a href="https://instagram.com/the.neerajx" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=%23E4405F" />
   </a>
   <a href="mailto:neeraj.n7830@gmail.com" target="blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=D14836" />
   </a>
   <a href="https://www.linkedin.com/in/neeraj-negi-49923731a/" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=0077B5" />
   </a>
-   <a href="https://neerajnegir.vercel.app/" target="blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
+  <a href="https://neerajnegir.vercel.app/" target="blank">
+    <img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=firefox&logoColor=black" />
   </a>
 </p>
 
