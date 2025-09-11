@@ -10,12 +10,12 @@
 ---
 
 ### 🧑‍💻 About Me
-- 🎓 Diploma in Computer Science — GP Kashipur (2022–2025)
-- 💼 Backend Developer (PHP, Laravel, Java, MySQL)
-- 🎯 Building real-world projects that solve real problems
-- 🌱 Currently learning: DevOps basics & advanced Laravel features
-- 🛠 Tools I use daily: VS Code, MySQL Workbench, Canva, Git, GitHub
-- 📬 Let’s connect and collaborate!
+- 🎓 Diploma in Computer Science — GP Kashipur (2022–2025)  
+- 💼 Backend Developer (PHP, Laravel, Java, MySQL)  
+- 🎯 Building real-world projects that solve real problems  
+- 🌱 Currently learning: DevOps basics & advanced Laravel features  
+- 🛠 Tools I use daily: VS Code, MySQL Workbench, Canva, Git, GitHub  
+- 📬 Let’s connect and collaborate!  
 
 ---
 
@@ -34,6 +34,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
 </p>
+
 ---
 
 ### 🧰 Languages & Tools  
@@ -44,7 +45,6 @@
  <a href="https://laravel.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40"/>
 </a>
-
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
@@ -70,20 +70,44 @@
     <img src="https://img.icons8.com/color/48/000000/canva.png" alt="canva" width="40" height="40"/>
   </a>
 </p>
+
+---
+
+### 📊 GitHub Stats & Graphs  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajnegir&show_icons=true&theme=radical" alt="stats graph" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=neerajnegir&theme=radical&hide_border=true" alt="streak graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=neerajnegir&layout=compact&theme=radical" alt="top languages" />
+</p>
+
+---
+
+### 🐍 Contribution Snake  
+<p align="center">
+  <img src="https://github.com/neerajnegir/neerajnegir/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ---
 
 ### 🧠 Top Skills
-- Backend Logic Building
-- API Integration (RESTful)
-- MySQL DB Design & Optimization
-- Laravel Routing & Middleware
-- CMS Handling (WordPress, Custom PHP CMS)
-- Canva Designing & UI layout planning
+- Backend Logic Building  
+- API Integration (RESTful)  
+- MySQL DB Design & Optimization  
+- Laravel Routing & Middleware  
+- CMS Handling (WordPress, Custom PHP CMS)  
+- Canva Designing & UI layout planning  
 
 ---
 
 ### ✍️ Quote I Follow
-> "Code is like humor. When you have to explain it, it’s bad." — Cory House
+> "Code is like humor. When you have to explain it, it’s bad." — Cory House  
 
 ---
 
