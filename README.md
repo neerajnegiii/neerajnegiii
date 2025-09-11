@@ -76,11 +76,11 @@
 ### 📊 GitHub Stats & Graphs  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=neerajnegir&show_icons=true&theme=radical" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=neerajn7830-9653&show_icons=true&theme=radical" alt="stats graph" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=neerajnegir&theme=radical&hide_border=true" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=neerajn7830-9653&theme=radical&hide_border=true" alt="streak graph" />
 </p>
 
 <p align="center">
