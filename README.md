@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neeraj Negi</h1>
-<h3 align="center">🚀 GIS & Python Developer | Backend (PHP • Laravel • MySQL) | Core Java</h3>
+<h3 align="center">🚀 GIS| Backend (PHP • Laravel • MySQL) | Core Java</h3>
 
 <p align="center">
   💡 Working on geospatial data processing, backend systems, and scalable APIs.<br>
